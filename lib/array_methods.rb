@@ -17,7 +17,7 @@ end
 def using_first(array)
   number = ["zero", "one", "two", "three"]
   number.first
-    => ["zero", "two", "one", "three"]
+    => ["zero"]
 end
 
 def using_last(array)
