@@ -21,7 +21,9 @@ def using_first(array)
 end
 
 def using_last(array)
-  
+  number = ["zero", "one", "two", "three"]
+  number.last
+    => ["zero", "two", "one", "three"]
 end
 
 def using_size(array)
