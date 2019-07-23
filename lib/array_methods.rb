@@ -5,6 +5,7 @@ end
 def using_sort(array)
   number = ["zero", "one", "two", "three"]
   number.sort
+    => 
 end
 
 def using_reverse(array)
