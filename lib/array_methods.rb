@@ -29,5 +29,5 @@ end
 def using_size(array)
   number = ["zero", "one", "two", "three"]
   number.size
-    => 3
+    => 
 end
