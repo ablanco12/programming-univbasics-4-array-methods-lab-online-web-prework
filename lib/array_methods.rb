@@ -9,7 +9,9 @@ def using_sort(array)
 end
 
 def using_reverse(array)
-  
+  number = ["zero", "one", "two", "three"]
+  number.reverse
+    => ["zero", "two", "one", "three"]
 end
 
 def using_first(array)
