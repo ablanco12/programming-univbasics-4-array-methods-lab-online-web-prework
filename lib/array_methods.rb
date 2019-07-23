@@ -11,7 +11,7 @@ end
 def using_reverse(array)
   number = ["zero", "one", "two", "three"]
   number.reverse
-    => ["zero", "", "one", "three"]
+    => ["three", "two", "one", "zero"]
 end
 
 def using_first(array)
