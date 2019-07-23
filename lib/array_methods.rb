@@ -5,11 +5,11 @@ end
 def using_sort(array)
   number = ["zero", "one", "two", "three"]
   number.sort
-    => ["zero", "", "", "three"]
+    => ["zero", "two", "one", "three"]
 end
 
 def using_reverse(array)
-
+  
 end
 
 def using_first(array)
